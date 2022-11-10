@@ -1,10 +1,10 @@
-## Hi there 👋 My name is Gregory and I'm currently looking for a job as Data Analyst
+## Hi there 👋 My name is Gregory and I'm currently looking for a job as a Data Analyst
 
 ### My technology stack:
 SQL, Python, Git, AirFlow, Tableau, Redash
 Pandas, NumPy, Matplotlib, Seaborn
 
-### Education
+### Education 
 ```
 Data Analytics    karpov.courses   2022 
 Introduction to SQL Stepik   2022
